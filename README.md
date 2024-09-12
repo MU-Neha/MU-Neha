@@ -5,6 +5,7 @@ Hi there! 👋 I'm Neha M U
 💻 Passionate about technology, coding, and automation
 
 🚀 Projects
+
 Smart Street Lighting System: Developed a smart street lighting system using Arduino microcontrollers, PIR motion sensors, and LDR sensors to optimize urban lighting efficiency. 
 The system autonomously adjusts lights based on motion and ambient light, reducing energy consumption while ensuring pedestrian safety.
 
@@ -17,11 +18,13 @@ Database: MySQL
 Tools/IDEs: VSCode, Eclipse, UiPath, Figma
 
 🏆 Certifications
+
 RPA Design and Development v4.0 - UiPath Academy
 Silver Medal in Privacy and Security in Online Social Media - NPTEL
 Elite in Cyber Security and Privacy - NPTEL
 
 🤖 Participation
+
 HACK-A-BOT: Developed a conversational AI chatbot using UiPath Studio to automate responses to FAQs about courses, schedules, and university services.
 
 📫 Contact Me
